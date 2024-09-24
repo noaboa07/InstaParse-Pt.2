@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [✓] Users without iPhones to demo this feature can manually add unique photos to their simulator's Photos app
 - [✓] Users are not able to see other users’ photos until they upload their own.
-- [✓] Users are not able to see other photos until they post their own (within 24 hours)	
+- [✓] Users are not able to see other photos until they post their own (within 24 hours)    
  
 The following **optional** features are implemented:
 
