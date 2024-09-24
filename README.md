@@ -1,29 +1,26 @@
-# Project 3 - *Name of App Here*
+# Lab 3 - *Instaparse - PT 2*
 
-Submitted by: **Your Name Here**
+Submitted by: **Noah Russell**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**Name of your app** is an app which is the second part of the Instaparse project where I added additional functionality to my app, such as the ability to take photos with the camera and add more complex filtering logic to the posts returned in my query. 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can launch camera to take photo instead of photo library
-  - [ ] Users without iPhones to demo this feature can manually add unique photos to their simulator's Photos app
-- [ ] Users are not able to see other users’ photos until they upload their own.
-- [ ] Users can intereact with posts via comments, comments will have user data such as username and name
-- [ ] Posts have a time and location attached to them
-- [ ] Users are not able to see other photos until they post their own (within 24 hours)	
+- [✓] Users without iPhones to demo this feature can manually add unique photos to their simulator's Photos app
+- [✓] Users are not able to see other users’ photos until they upload their own.
+- [✓] Users are not able to see other photos until they post their own (within 24 hours)	
  
 The following **optional** features are implemented:
 
-- [ ] User receive notifcation when it is time to post
+- [ ] N/A
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] N/A
 
 ## Video Walkthrough
 
@@ -33,11 +30,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Lab was super quick and easy. No constraints, challenges, difficulties, etc.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Noah Russell]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
